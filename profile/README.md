@@ -16,7 +16,7 @@ While still carrying that full career, he is already the physical architect of t
 
 Together: one person who sees how systems connect, one person who builds what those systems require in the physical world. The software, the workflows, the planning, the deep understanding of natural systems, and the passion for making things work with nature rather than against it — that comes from Megan. The infrastructure, the physical problem-solving, the hands-on engineering that turns a plan into something that stands up and works — that comes from Jeremiah. 
 
-What they're building is already a working farm, founded on a version of sustainability that means something to them on a personal level: working with and respecting nature in all her glory, respecting and loving the sentient species they share their lives with, proving that farming well is founded in a love of the land, the livestock, and the world at large. This farm is the core that gives them the ability to contribute to society by supporting lives and communities and leaving the world a little better than they found it in ways they can actually see and touch.
+What they're building is already a working farm, founded on a vision of sustainability that means something to them on a personal level: working with and respecting nature in all her glory, respecting and loving the sentient species they share their lives with, proving that farming well is founded in a love of the land, the livestock, and the world at large. This farm is the core that gives them the ability to contribute to society by supporting lives and communities and leaving the world a little better than they found it in ways they can actually see and touch.
 
 ---
 
