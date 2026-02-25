@@ -8,7 +8,7 @@ Woman-owned. Veteran household. Beginning farmer, year one. Building tools the f
 
 ## The Farm
 
-Nubian and Nigerian Dwarf dairy goats, permitted Grade A Raw-for-Retail. Miniature Zebu cattle on rotational pasture. Egyptian Fayoumi chickens handling pest suppression. Market garden with a 61,500-gallon/year rainwater reclamation system in progress.
+Nubian dairy goats, permitted Grade A Raw-for-Retail. Miniature Zebu cattle on rotational pasture. Egyptian Fayoumi chickens handling pest suppression. Market garden with a 61,500-gallon/year rainwater reclamation system in progress.
 
 The dairy sets the rhythm. Everything else fits around it.
 
