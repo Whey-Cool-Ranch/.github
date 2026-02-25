@@ -16,7 +16,13 @@ Together: one person who sees how systems connect, one person who builds what's 
 
 ## The Farm
 
-Nubian dairy goats, permitted Grade A Raw-for-Retail. Miniature Zebu cattle on rotational pasture. Egyptian Fayoumi chickens handling pest suppression. Market garden with a 61,500-gallon/year rainwater reclamation system in progress.
+**Grade A Raw Goat Dairy** — the dream job we planned to retire to, so we started early. The focus is returning "show quality" to what it was meant to be: a showcase of beautiful, healthy, long-lived Nubian dairy goats capable of pasture-based production — cost-efficient, nutrient-dense, high-quality raw milk, retail-permitted and direct to consumer.
+
+**Miniature Zebu cattle** earn their place on multiple fronts: rotational grazing alongside the goats for parasite cycle management, soil-up regenerative silvopasture restoration on native Blackland Prairie, and a level of ease that full-size cattle simply don't offer. They fit through the goat doors. They're gentle on the land, the fences, and the equipment. The bull is peaceful enough to walk fence lines with. Unlike sheep, they share nutrient requirements and infrastructure with the goats. Unlike beef cattle, they don't require you to watch your back. On the horizon: A2A2 milk production and a livestock project for younger 4H and FFA kids — paying forward the education we received when we were those kids. Even if none of that materializes, they're so low-maintenance and genuinely joyful to have around that they've earned a permanent place here.
+
+**Egyptian Fayoumi chickens** — rare-breed, heat-tolerant, disease-resistant, and highly predator-aware — do their chicken thing without hand-holding. Clean coop, feed, water. In return: first-line defense against grasshoppers, crickets, fire ants, mice, and snakes. No pesticides. Eggs as a bonus. Active, aware birds that are a pleasure to watch and earn their keep every single day.
+
+**Market garden** fed by dairy compost, irrigated by a 61,500-gallon/year rainwater reclamation system in progress. Starting with the household. The horizon is the neighborhood — fresh vegetables available to people who don't have the time, knowledge, or space to grow their own.
 
 The dairy sets the rhythm. Everything else fits around it.
 
