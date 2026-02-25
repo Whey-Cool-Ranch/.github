@@ -34,6 +34,43 @@ Small farms lose — not because they're bad at farming, but because the system 
 
 These tools exist to close that gap. Not to save small farms — they don't need saving. Just to even the odds a little.
 
+```mermaid
+graph LR
+    subgraph CORP["🏢 Corporate Operation"]
+        GW["Grant Writer\nknows signup windows\nbefore they're announced"]
+        AC["Ag Consultant\nknows the NRCS office\nby name"]
+        LS["Legal Staff\nhandles compliance\nand contract review"]
+    end
+
+    subgraph SMALL["🐐 Small Farm"]
+        F["Farmer\n(also doing\neverything else)"]
+    end
+
+    subgraph MAZE["The System — as experienced without help"]
+        EQIP["EQIP\n🔒 Signup windows\nunannounced"]
+        TWDB["State Grants\n🔒 Political subdivision\nonly — no direct apply"]
+        ELEC["Eligibility\n🔒 Triple preference stack\nnobody told you about"]
+        DEAD["Deadlines\n🔒 March 18. Did you\nknow? How would you?"]
+    end
+
+    subgraph CA["🗺️ CommonAcre"]
+        FIND["Find the Money\nGrant discovery +\neligibility reasoning"]
+        LAND["Work Your Land\nGIS · soil · topo\npractice code matching"]
+        WIN["Win the Application\nEQIP scoring · document\ngeneration · pre-work"]
+        MGT["Manage the Contract\nCompliance tracking\npayment milestones"]
+    end
+
+    GW -->|"navigates easily"| MAZE
+    AC -->|"navigates easily"| MAZE
+    F -->|"navigates alone"| MAZE
+    CA -->|"guides farmer through"| MAZE
+
+    style CORP fill:#f0f4f0,stroke:#6b9e6b
+    style SMALL fill:#fff8e8,stroke:#c9a84c
+    style MAZE fill:#fff0f0,stroke:#c0554a
+    style CA fill:#e8f0ff,stroke:#4a6fa5
+```
+
 ---
 
 ## The Org
