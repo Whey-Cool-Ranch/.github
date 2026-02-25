@@ -36,15 +36,15 @@ The dairy sets the rhythm. Everything else fits around it.
 
 ## The Software
 
-Tools built here start as operational problems on this farm. When they work, they go public — priced for farms that look like this one, not for investors.
+Every tool here started as a problem on this farm — something Megan needed, couldn't find, and built. When it works here, it goes public. Pricing is set by what a small farm can actually afford, not what the work is worth. That's a deliberate choice: she wants to earn a living, not get rich, and she's not willing to price out the peers she's building for.
+
+No VC. No ads. No data selling.
 
 | Project | What it does | Status |
 |---------|-------------|--------|
 | [**HerdMate**](https://github.com/Whey-Cool-Ranch/herdmate) | Goat herd management built for small farms — the institutional knowledge that commercial operations pay consultants for, in your pocket, free for up to 10 goats | Active development |
 | [**CommonAcre**](https://github.com/Whey-Cool-Ranch/commonacre) | Agricultural program navigator — grant discovery, eligibility, land analysis | Spec complete, build starting |
 | [**Claude Workshop**](https://github.com/Whey-Cool-Ranch/claude-workshop) | AI plugin infrastructure for the portfolio | Active |
-
-No VC. No ads. No data selling. Pricing set by what a small farm would actually pay.
 
 ---
 
