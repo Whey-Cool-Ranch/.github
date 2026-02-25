@@ -28,7 +28,7 @@ What they're building is already a working farm, founded on a vision of sustaina
 
 **Egyptian Fayoumi chickens** — rare-breed, heat-tolerant, disease-resistant, and highly predator-aware — do their chicken thing without hand-holding. Clean coop, feed, water. In return: first-line defense against grasshoppers, crickets, fire ants, mice, and snakes. No pesticides. Eggs as a bonus. Active, aware birds that are a pleasure to watch and earn their keep every single day.
 
-**Market garden** fed by dairy compost, irrigated by a 61,500-gallon/year rainwater reclamation system in progress. Starting with the household. The horizon is the neighborhood — fresh vegetables available to people who don't have the time, knowledge, or space to grow their own.
+**Market garden** fed by dairy compost, irrigated by a 61,500-gallon/year rainwater reclamation system in progress. Starting with the household. The horizon is the neighborhood — fresh, wholesome, real foods available to people who don't have the time, knowledge, or space to grow their own.
 
 The dairy sets the rhythm. Everything else fits around it.
 
