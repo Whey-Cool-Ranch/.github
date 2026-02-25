@@ -2,7 +2,15 @@
 
 **Grade A Raw Goat Dairy · Celeste, TX · Northeast Texas Blackland Prairie**
 
-Woman-owned. Veteran household. Beginning farmer, year one. Building tools the farm actually needs — and publishing them at prices small farms can actually pay.
+---
+
+## The People
+
+**Megan** spent decades in software development and government communications learning how complex systems work — and how badly they fail the people they're supposed to serve. She grew up in rural Indiana, raised dairy goats and horses in 4H, watched farming communities hollow out through the 80s and 90s, and eventually built a career that crossed between technical systems and institutional ones. She's the one who connects the dots. Sees the meta. Understands that the farm biome, the USDA program landscape, and the software architecture are all versions of the same problem: complex systems that reward people who can read them and punish people who can't.
+
+**Jeremiah** is a Marine Corps veteran, medically discharged, with a career in aerospace that spans commercial spaceflight and defense manufacturing at the highest levels — including work on the Virgin Galactic SpaceShip2 program, the Northrop Grumman B-21 Raider, and the spinup of General Dynamics' Mesquite, TX munitions facility, opened in 2024 to produce artillery shells for Ukraine. He thinks in physical systems, real-world constraints, and continuous integration — not the software kind, the kind where the weld either holds or it doesn't. He's currently executing a corporate exit to bring that engineering instinct to the farm full time. He's the one who sees the physical pain point and builds the clever, cost-effective solution. The rainwater reclamation system. The barn modifications. Eventually the precision livestock infrastructure that makes small-farm data capture actually work.
+
+Together: one person who sees how systems connect, one person who builds what's needed to make them work in the real world. The software comes from Megan. The physical infrastructure comes from Jeremiah. The farm is where they meet.
 
 ---
 
