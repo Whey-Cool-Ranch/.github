@@ -4,12 +4,6 @@
 
 ---
 
-## The People
-
-**Megan** spent decades in software development, journalism, community management, and government communications learning how complex systems work — and how badly they fail the people they're supposed to serve. She grew up in rural Indiana, raised dairy goats and horses in 4H, watched farming communities hollow out through the 80s and 90s, and eventually built a career that crossed between technical systems and institutional ones. She's the one who connects the dots. Sees the meta. Understands that the farm biome, the USDA program landscape, and the software architecture are all versions of the same problem: complex systems that reward people who can read them and punish people who can't.
-
----
-
 ## The Farm
 
 **Grade A Raw Goat Dairy** — the dream job I wanted to retire to, so I started early. The focus is returning "show quality" to what it was meant to be: a showcase of beautiful, healthy, long-lived Nubian dairy goats capable of pasture-based production — cost-efficient, nutrient-dense, high-quality raw milk, retail-permitted and direct to consumer.
