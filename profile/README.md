@@ -82,7 +82,6 @@ graph LR
 whey-cool-ranch   Farm operations, grant tracking, portfolio docs
 herdmate          Goat herd management SaaS
 commonacre        Agricultural program navigator (coming)
-claude-workshop   Plugin design infrastructure
 brand             Voice, visual, social, content
 ```
 
